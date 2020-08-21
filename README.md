@@ -1,0 +1,2 @@
+# MainDetailsComponent
+Created with CodeSandbox
