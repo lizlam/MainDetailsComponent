@@ -1,7 +1,7 @@
 {
-  "name": "maindetails",
+  "name": "main-details-component",
   "version": "1.0.0",
-  "description": "",
+  "description": "Main Details Component",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

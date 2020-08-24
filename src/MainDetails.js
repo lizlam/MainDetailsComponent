@@ -23,21 +23,22 @@ const StyledSpan = styled.span`
 `;
 
 const IconSpan = styled.span`
-  background-color: cornsilk;
+  background-color: white;
   border: blue 1px solid;
+  font-size: 9px;
   border-radius: 25px;
   padding: 3px;
   position: relative;
-  right: 14px;
+  right: 7px;
 `;
 
 const CloseButton = styled.button`
   float: right;
 `;
 
-const Right = `>>`;
+const Right = `>`;
 
-const Left = `<<`;
+const Left = `<`;
 
 const initialState = { details: "closed" };
 
